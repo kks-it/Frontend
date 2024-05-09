@@ -1,0 +1,25 @@
+body{
+    margin: 0
+}
+.container{
+    padding: 16px;
+}
+
+.intro{
+    background-color: black;
+    margin: -16px;
+    text-align: center;
+    color: white
+}
+
+#profile-pic{
+    height: 400px;
+    width: 400px;
+}
+
+.links img{
+    height: 40px;
+    width: 40px;
+    text-transform: none;
+    padding: 0 20px;
+}
