@@ -15,6 +15,7 @@ body{
 #profile-pic{
     height: 400px;
     width: 400px;
+    border-radius: 50%;
 }
 
 .links img{
@@ -31,4 +32,9 @@ table, tr, th, td{
 
 th, td{
     padding: 10px;
+}
+
+.dynamic-text{
+    text-transform: capitalize;
+    color: blue;
 }
